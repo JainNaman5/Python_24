@@ -1,1 +1,1 @@
-The above file contains the first basic project on Python
+The above are the projects made in Python
